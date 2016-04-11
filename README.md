@@ -1,1 +1,1 @@
-# cuda
+在ubuntu 14.04上安装CUDA环境并配置到QTCRETOR中,详细方法见ubuntu14.04qt下配置cuda.pdf 文档中
